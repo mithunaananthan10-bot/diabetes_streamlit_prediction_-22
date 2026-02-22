@@ -2,7 +2,7 @@
 🩺 Diabetes Prediction App
 
 A simple Diabetes Prediction system built using Python Machine Learning and Streamlit.
-The project uses Logistic Regression (simple script) and Random Forest (Streamlit app) to predict whether a person is diabetic based on medical inputs.
+The project uses Logistic Regression on [analysis.py flie(simple script)] and Random Forest [on analysis2.py(Streamlit app)] to predict whether a person is diabetic based on medical inputs.
 
 ✨ Features
 
